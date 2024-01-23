@@ -1,4 +1,4 @@
-# README.md for PyGuntt 
+# PyGuntt 
 
 ## Overview
 This README provides information about a Python script designed to create a Gantt chart for a project titled "Automated Documentation Website Development." The script uses `matplotlib` for plotting and `pandas` for data handling.
