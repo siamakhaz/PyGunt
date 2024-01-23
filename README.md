@@ -37,6 +37,9 @@ Upon execution, the script displays a Gantt chart with the following features:
 - Custom labels and title.
 - Date formatting for clear understanding of the timeline.
 
+![Sample Output ](Docs\sample-gunnt.png "PyGuntt Sample")
+
+
 ## Customization
 You can customize the script by modifying the `phases` dictionary to reflect your project's timeline.
 
